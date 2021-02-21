@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![This is the image](https://pixabay.com/photos/road-forest-fall-autumn-season-1072823/)
